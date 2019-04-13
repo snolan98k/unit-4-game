@@ -20,7 +20,7 @@ body {
     padding: 3%;
     background-color: plum;
     color: black;
-    font-size: 200%;
+    font-size: 40px;
     margin-top: 5px;
 }
 
@@ -32,11 +32,13 @@ body {
     background-color: lightblue;
     margin-top: 5px;
     margin-left: 3px;
+    font-weight: bold;
 }
 
 .totalScore {
     border: 2px solid peachpuff;
     background-color: peachpuff;
+    font-weight: bold;
 }
 
 .scoreDisplay {
@@ -44,6 +46,9 @@ body {
     padding: 3%;
     background-color: peachpuff;
     margin-top: 5px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .gems {
