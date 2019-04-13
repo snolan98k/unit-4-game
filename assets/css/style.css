@@ -1,0 +1,52 @@
+/* background */
+
+body {
+    background-color: aquamarine;
+}
+
+/* jumbotron */
+
+.jumbotron {
+    background-color: lightpink !important;
+    margin-left: 30px !important;
+    margin-right: 30px !important;
+    margin-top: 10px !important;
+}
+
+/* randomnumber box */
+
+.randomNumber {
+    border: 2px solid plum;
+    padding: 3%;
+    background-color: plum;
+    color: black;
+    font-size: 200%;
+    margin-top: 5px;
+}
+
+/* wins/loses */
+
+.totals {
+    border: 2px solid lightblue;
+    padding: 2%;
+    background-color: lightblue;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+
+.totalScore {
+    border: 2px solid peachpuff;
+    background-color: peachpuff;
+}
+
+.scoreDisplay {
+    border: 2px solid peachpuff;
+    padding: 3%;
+    background-color: peachpuff;
+    margin-top: 5px;
+}
+
+.gems {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
