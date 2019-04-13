@@ -10,8 +10,8 @@ $(document).ready(function () {
 
     var gemOne = Math.floor(Math.random() * 12) + 1;
     console.log("Gem 1: " + gemOne);
-    $("#img1").html("<img src=" + "assets/images/blue.jpg" + "value" + gemOne + ">")
-        ;
+    $("#img1").html("<img src=" + "assets/images/blu.jpg" + " value=" + gemOne + ">");
+
 
     var gemTwo = Math.floor(Math.random() * 12) + 1;
     console.log("Gem 2: " + gemTwo);
