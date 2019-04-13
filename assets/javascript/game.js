@@ -44,7 +44,7 @@ $(document).ready(function () {
 
         gemOne = Math.floor(Math.random() * 12) + 1;
         console.log("Gem 1: " + gemOne);
-        $("#img").html("<img src=" + "assets/images/blu.jpg" + " value=" + gemOne + ">");
+        $("#img1").html("<img src=" + "assets/images/blu.jpg" + " value=" + gemOne + ">");
 
         gemTwo = Math.floor(Math.random() * 12) + 1;
         console.log("Gem 2: " + gemTwo);
